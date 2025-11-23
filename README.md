@@ -10,6 +10,3 @@ A simple mobile application with a beige & brown theme that displays a counter. 
 - Simple UI, responsive layout, modern look
 - Beige & brown color palette
 
-**How to run:**
-1. Make sure Flutter is installed.
-2. Get dependencies:
