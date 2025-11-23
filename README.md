@@ -1,16 +1,15 @@
-# counter_app
 
-A new Flutter project.
+# Counter App
 
-## Getting Started
+**Description:**
+A simple mobile application with a beige & brown theme that displays a counter. Users can increment the counter with the "+" button and reset it to zero using the refresh button.
 
-This project is a starting point for a Flutter application.
+**Features:**
+- Increment counter with "+" button
+- Reset counter with refresh button
+- Simple UI, responsive layout, modern look
+- Beige & brown color palette
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**How to run:**
+1. Make sure Flutter is installed.
+2. Get dependencies:
